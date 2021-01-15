@@ -1,0 +1,48 @@
+a.btn
+{
+    margin: 25px 5px;
+    width: 100px;
+    padding: 10px;
+}
+a.btn1
+{
+    background-color: rgb(252, 252, 252);
+    color: rgb(0, 0, 0); 
+    border: 2px solid #008cba;
+}
+a.btn1:hover 
+{
+    background-color: #4CAF50;
+    color: white;
+}
+a.btn2 
+{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+  
+a.btn2:hover 
+{
+    background-color: #008CBA;
+    color: white;
+}
+a.btn3
+{
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+a.btn3:hover 
+{
+    background-color: #008CBA;
+    color: white;
+}
+h1
+{
+    color: black;
+}
+li
+{
+    color:rgb(255, 0, 0);
+}
